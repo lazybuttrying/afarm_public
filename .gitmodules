@@ -1,0 +1,18 @@
+[submodule "train/grape_detection"]
+	path = train/grape_detection
+	url = https://github.com/memesoo99/grape_detection.git
+[submodule "train/grape_feature-regression"]
+	path = train/grape_feature-regression
+	url = https://github.com/memesoo99/grape_feature-regression.git
+[submodule "train/grape_boxinst"]
+	path = train/grape_boxinst
+	url = https://github.com/memesoo99/grape_boxinst
+[submodule "inference/afarm_stepfunction"]
+	path = inference/afarm_stepfunction
+	url = https://github.com/lazybuttrying/afarm_stepfunction.git
+[submodule "application/afarm_drone"]
+	path = application/afarm_drone
+	url = https://github.com/lazybuttrying/afarm_drone.git
+[submodule "application/afarm_wepapp"]
+	path = application/afarm_wepapp
+	url = https://github.com/lazybuttrying/afarm_wepapp
