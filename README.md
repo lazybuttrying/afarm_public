@@ -3,6 +3,10 @@
 ## Architecture
 ![pipeline](https://user-images.githubusercontent.com/79500842/170234815-8815fe5c-c7b0-4a02-8207-997c8df81dc0.jpg)
 
+## Update Submodule
+```bash
+git submodule foreach git pull
+```
 
 ## Outline
 - application
