@@ -6,8 +6,10 @@
 
 사이트 : http://15.164.52.133:8100
 
-- 앱의 경우 아이오닉 특성 상 웹뷰로 변환되어 나오기에 위와 동일함
-- 앱에서 사이트를 실행할 경우 Chrome 이용하기
+안드로이드 : https://drive.google.com/file/d/1ELb8uXXDMffyQxqqw76g5nDty5GLDsHz/view?usp=sharing
+
+- 앱의 경우 아이오닉 특성 상 웹뷰로 변환되어 나오기에 사이트와 동일함
+- 스마트폰에서 사이트를 실행할 경우 Chrome 이용하기
 
 (사용설명서 페이지 참고)
 
@@ -25,6 +27,7 @@
      - skip_frame : 1 (영상에서 얼마나 프레임을 스킵할 지 지정)
      - 드론 선택 : 내 드론 목록이 나옴. 원하는 드론 선택
      - 영상 : https://drive.google.com/file/d/1t08glYIRR7alYILkFLlJugU_jIL43Xla/view?usp=sharing
+   - 영상을 업로드한 날짜와 시간으로 저장
 
 4. 품질 확인
    1. 날짜 선택
