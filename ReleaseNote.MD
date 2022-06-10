@@ -13,6 +13,8 @@
 
 (사용설명서 페이지 참고)
 
+- https://drive.google.com/file/d/1Pm_PxDnKVFrgNk7nv1wDCvncQx_69mbU/view?usp=sharing
+
 1. login (필수 : 로그인을 해야 사진과 정보를 불러옴)
    1. 만약 사진이 제대로 안 불러와진다면 새로고침/종료 후 다시 실행해서 로그인해보기
 2. 드론 설정
